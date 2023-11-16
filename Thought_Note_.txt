@@ -1,0 +1,24 @@
+Home Page:
+•	The Logo and text is added as I created the logo from canva then by display flex and space-between property arrange this both
+•	Navbar is in horizontal line with logo and text all are in one line
+•	In the information add the links in text so we click on that word complete information of that place will get . Ex-Gateway of India
+•	Added table in each column the attractive places information is given
+•	Have iframe and fix iframe and incresse the size of iframe and in that about page is there.
+•	Footer is added in footer the links of each pages is given and the contact information also given
+
+
+
+About Section:
+•	Pricing table is added 
+•	Order list is added to give information about our mission
+•	Footer is added in footer the links of each pages is given and the contact information also given
+
+Climate Page:
+•	5 colums and 11 rows are added
+•	The table is place center of page
+•	Footer is added in footer the links of each pages is given and the contact information also given
+
+Contact Page:
+•	In contact page name,address ,email is there
+•	Country with section tag is there
+•	Submit button is there
